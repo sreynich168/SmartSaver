@@ -20,7 +20,7 @@ Whether you're budgeting for school, planning for the future, or managing househ
 
 ## 🖼️ Live Preview
 
-![SmartSaver Preview](.smart1.png)
+![SmartSaver Preview](.Smart1.png)
 ![SmartSaver Preview](./smart2.png)
 ![SmartSaver Preview](./smart3.png)
 
